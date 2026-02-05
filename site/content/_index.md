@@ -1,20 +1,21 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "ROAZ"
+subtitle: Authentic Portuguese Apparel
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: What is ROAZ?
+    text: "ROAZ redefines modern comfort. From our home in Portugal, we offer easy-fitting, contemporary pieces designed for a life without constraints or age limits. We believe in effortless comfort and style "
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Our Products"
+    text: "ROAZ offers a range of comfortable pieces for an easy everyday/every ocaasion look. T-shirts for warmer days, Sweatshirts for those chill nights, Shorts for those casual evening drinks and trousers when you want a more formal look."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "The best white t-shirt in the world. No Hyperbole. We made a bold claim and then built a t-shirt to back it up. ROAZ's signature tee isn't just soft or well-fitting—it's a meticulously engineered garment. From the weight of our premium, breathable cotton to the reinforced seams that survive countless washes, every detail is obsessed over. This is the definitive white tee: timeless, effortlessly comfortable, and designed to become your daily essential. Experience the difference."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Born from Simplicity, Perfected in Portugal.
+Inspired by the effortless grace of our local roaz (dolphin), we sought to create the perfect, no-fuss foundation. The result is what we believe is simply the best white t-shirt in the world. It’s cut for true comfort (say goodbye to slim-fit constraint), crafted from a modern, substantial fabric that drapes perfectly, and designed to look and feel right on any body, at any age. This is modern comfort, realized."
 values:
     heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    text: At ROAZ, our philosophy is simple: true comfort must be comfortable for the planet, too. It’s a responsibility born from our home in Setúbal, where the graceful roaz dolphin reminds us daily of the delicate balance we must protect. Choosing ROAZ means choosing a garment made with respect—for the people who craft it, for the body that wears it, and for the coastal home that inspires it. It’s comfort that cares, designed for a world we all share.
 ---
 
