@@ -16,6 +16,6 @@ products:
 Inspired by the effortless grace of our local roaz (dolphin), we sought to create the perfect, no-fuss foundation. The result is what we believe is simply the best white t-shirt in the world. It’s cut for true comfort (say goodbye to slim-fit constraint), crafted from a modern, substantial fabric that drapes perfectly, and designed to look and feel right on any body, at any age. This is modern comfort, realized."
 values:
     heading: Our values
-    text: At ROAZ, our philosophy is simple: true comfort must be comfortable for the planet, too. It’s a responsibility born from our home in Setúbal, where the graceful roaz dolphin reminds us daily of the delicate balance we must protect. Choosing ROAZ means choosing a garment made with respect—for the people who craft it, for the body that wears it, and for the coastal home that inspires it. It’s comfort that cares, designed for a world we all share.
+    text: "At ROAZ, our philosophy is simple: true comfort must be comfortable for the planet, too. It’s a responsibility born from our home in Setúbal, where the graceful roaz dolphin reminds us daily of the delicate balance we must protect. Choosing ROAZ means choosing a garment made with respect—for the people who craft it, for the body that wears it, and for the coastal home that inspires it. It’s comfort that cares, designed for a world we all share."
 ---
 
